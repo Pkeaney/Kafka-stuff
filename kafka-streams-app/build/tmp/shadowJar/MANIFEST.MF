@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: slf4j-simple-1.7.30.jar kafka-streams-2.8.1.jar javafaker-
+ 1.0.2.jar connect-json-2.8.1.jar connect-api-2.8.1.jar kafka-clients-
+ 2.8.1.jar slf4j-api-1.7.30.jar rocksdbjni-5.18.4.jar commons-lang3-3.
+ 5.jar snakeyaml-1.23-android.jar generex-1.0.2.jar zstd-jni-1.4.9-1.j
+ ar lz4-java-1.7.1.jar snappy-java-1.1.8.1.jar jackson-datatype-jdk8-2
+ .10.5.jar jackson-databind-2.10.5.1.jar automaton-1.11-8.jar jackson-
+ annotations-2.10.5.jar jackson-core-2.10.5.jar
+Main-Class: io.confluent.developer.KafkaStreamsApplication
+
